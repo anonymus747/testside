@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Public Test Directory</title>
+</head>
+<body>
+    <h1>Global Contact Registry Test</h1>
+    <p>This public page is used for testing automated scrapers and web crawlers.</p>
+    
+    <!-- Optimized for phone bots -->
+    <p>Mobile: <a href="tel:+41792353292">+41 79 235 32 92</a></p>
+    
+    <!-- Optimized for SMS bots -->
+    <p>SMS Contact: <a href="sms:+41792353292">Send SMS</a></p>
+</body>
+</html>
